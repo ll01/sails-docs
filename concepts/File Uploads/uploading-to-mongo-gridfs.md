@@ -21,5 +21,5 @@ Then use it in one of your controllers:
     });
   }
 ```
-
+As of skipper-gridfs@0.5.3 the adapter does not currently support Node versions >= v4.0.
 <docmeta name="displayName" value="Uploading to GridFS">
